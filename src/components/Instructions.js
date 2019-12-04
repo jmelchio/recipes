@@ -1,6 +1,6 @@
 import React from "react";
 
-function Instructions({title, steps}) {
+function Instructions({ title, steps }) {
   return (
     <section className="instructions">
       <h2>{title}</h2>
